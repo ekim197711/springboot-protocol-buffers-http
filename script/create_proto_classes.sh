@@ -1,0 +1,1 @@
+protoc --java_out=java SpaceShip.proto
